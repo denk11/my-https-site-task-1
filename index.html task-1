@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>HTTPS Test Page</title>
+</head>
+<body>
+    <h1>Сторінка працює через HTTPS!</h1>
+</body>
+</html>
